@@ -12,3 +12,6 @@ Speed fix on PAL consoles
 Audio fix
 Credits fix
 HUD buttons now follow N64 OOT style.
+
+
+Use your usual n64 patching software for .BPS files.
