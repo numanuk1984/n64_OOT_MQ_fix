@@ -1,10 +1,10 @@
-Zelda ocarina of time - masterquest Rev.1 fixed for PAL consoles.
+Zelda Ocarina of Time - Master Quest(E). Fixed for PAL consoles.
 
 Works on retro CRT TV's
 
 This is not a region flip fix!!
 
-Use rom with md5 hash - 1618403427e4344a57833043db5ce3c3
+Use ROM: "The Legend of Zelda - Ocarina of Time - Master Quest (E) [!]" with md5 hash "1618403427e4344a57833043db5ce3c3"
 
 Fixes:-
 
