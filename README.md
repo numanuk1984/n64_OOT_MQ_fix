@@ -8,9 +8,9 @@ Use ROM: "The Legend of Zelda - Ocarina of Time - Master Quest (E) [!]" with md5
 
 Fixes:-
 
-Speed fix on PAL consoles
-Audio fix
-Credits fix
+Speed fix on PAL consoles\n
+Audio fix\n
+Credits fix\n
 HUD buttons now follow N64 OOT style.
 
 
